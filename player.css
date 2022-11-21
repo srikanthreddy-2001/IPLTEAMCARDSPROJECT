@@ -1,0 +1,32 @@
+.pimg-container{
+    margin:92px auto;
+    width:310px;
+    height:310px;
+    border-radius: 72%;
+    background-color:rgb(183, 231, 94);
+}
+.player-icon{
+    width:100%;
+    height:100%;
+    border-radius: 50%;
+    border:1px solid rgb(44, 34, 34);
+}
+.txt-container{
+    margin:0 auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border:1px solid black;
+    border-radius: 25px;
+    width:300px;
+    height:400;
+    background-color: rgb(167, 230, 251);
+}
+.player-price{
+    color:gray;
+}
+body{
+    background-color: #f8ceec;
+    background-image: linear-gradient(315deg, #f83469 0%, #b5f4c5 74%);
+}
